@@ -58,4 +58,4 @@ The system workflow is divided into two primary pipelines:
 
 ---
 
-**Developed by Himendra Fadh as a Capstone Project for the Hacktiv8 X IBM SkillsBuild Program.**
+**Developed by Himendra Fadhil as a Capstone Project for the Hacktiv8 X IBM SkillsBuild Program.**
