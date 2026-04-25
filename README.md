@@ -23,11 +23,10 @@ The assistant identifies and provides mitigation guidance for specific Linux Ind
 ## Technical Stack
 
 * **Orchestration Logic:** Langflow (Low-code AI orchestration).
-* **Large Language Model:** Google Gemini 1.5 Series.
+* **Large Language Model:** Google Gemma 3 Series.
 * **Vector Database:** DataStax Astra DB (Serverless Vector Search).
 * **Persistent Memory:** Astra DB Chat Memory Integration.
 * **Embedding Model:** Google Generative AI Embeddings.
-* **Development Environment:** Linux Mint.
 
 ## System Architecture
 
@@ -39,10 +38,9 @@ The system workflow is divided into two primary pipelines:
 ## Getting Started
 
 ### System Prerequisites
-* Python 3.10 or higher.
-* Langflow installation via `pip install langflow`.
+* Langflow installation via browser or docker.
 * An active Astra DB account with an Application Token.
-* Google Gemini API Key.
+* Google AI API Key.
 
 ### Installation Steps
 1.  **Clone this repository:**
